@@ -1,0 +1,11 @@
+C:\Users\madhumathi.k\source\repos\Ems\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\madhumathi.k\source\repos\Ems\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\madhumathi.k\source\repos\Ems\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\madhumathi.k\source\repos\Ems\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\madhumathi.k\source\repos\Ems\BussinessLogic\bin\Debug\BussinessEntity.dll
+C:\Users\madhumathi.k\source\repos\Ems\BussinessLogic\bin\Debug\DatabaseLayer.dll
+C:\Users\madhumathi.k\source\repos\Ems\BussinessLogic\bin\Debug\BussinessEntity.pdb
+C:\Users\madhumathi.k\source\repos\Ems\BussinessLogic\bin\Debug\DatabaseLayer.pdb
+C:\Users\madhumathi.k\source\repos\Ems\BussinessLogic\obj\Debug\BussinessLogic.csproj.CopyComplete
+C:\Users\madhumathi.k\source\repos\Ems\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\madhumathi.k\source\repos\Ems\BussinessLogic\obj\Debug\BussinessLogic.pdb

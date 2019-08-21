@@ -1,0 +1,6 @@
+C:\Users\madhumathi.k\source\repos\Ems\BussinessEntity\bin\Debug\BussinessEntity.dll
+C:\Users\madhumathi.k\source\repos\Ems\BussinessEntity\bin\Debug\BussinessEntity.pdb
+C:\Users\madhumathi.k\source\repos\Ems\BussinessEntity\obj\Debug\BussinessEntity.csprojAssemblyReference.cache
+C:\Users\madhumathi.k\source\repos\Ems\BussinessEntity\obj\Debug\BussinessEntity.csproj.CoreCompileInputs.cache
+C:\Users\madhumathi.k\source\repos\Ems\BussinessEntity\obj\Debug\BussinessEntity.dll
+C:\Users\madhumathi.k\source\repos\Ems\BussinessEntity\obj\Debug\BussinessEntity.pdb
